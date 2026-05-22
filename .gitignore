@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# build
+/dist
+/tmp
+/out-tsc
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# misc
+.DS_Store
+*.log
+.angular/
